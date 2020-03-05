@@ -5,4 +5,4 @@ add, subtract, get the sum, multiply, get the power, and find the factorial
 In order to do this please fill out each function with your solution. Make sure to return the value so you can test it in Jasmine! To see the expected value
 take a look at the spec file that houses the Jasmine test cases.
 
-#Completed - All test passed 100% with Jest
+### Completed - All test passed 100% with Jest
