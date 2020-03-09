@@ -17,3 +17,4 @@ palindromes('tacos') // false
 ```
 
 
+### Completed, all test passed 100%
